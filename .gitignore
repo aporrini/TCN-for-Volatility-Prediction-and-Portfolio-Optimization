@@ -1,0 +1,10 @@
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore large raw data and model weights (tracked with Git LFS instead)
+DATA/
+MODEL/
+
+# Ignore OS / editor junk
+*.DS_Store
+*.log
