@@ -30,19 +30,8 @@ pip install -r requirements.txt
    - `final_dataset_daily.csv`
    - `macroeconomic_inputs.csv` (if applicable)
 
-2. Run the TCN model:  
-   Execute the notebook:
-
-   ```bash
-   jupyter notebook 04_tcn_volatility_prediction.ipynb
-   ```
-
-3. Run the portfolio optimization:  
-   Execute the notebook:
-
-   ```bash
-   jupyter notebook 06_tangency_portfolio.ipynb
-   ```
+2. Run the TCN model and Run the portfolio optimization:  
+   Execute the notebook
 
 ## Expected Results
 
