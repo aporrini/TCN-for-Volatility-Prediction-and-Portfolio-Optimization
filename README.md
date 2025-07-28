@@ -3,7 +3,7 @@
 
 ## Description
 
-This project implements a Temporal Convolutional Network (TCN) to forecast the volatility of S&P 500 sector ETFs. The predicted volatility is then used to construct a dynamic portfolio with the goal of reducing realized volatility compared to the SPY benchmark. Macroeconomic variables are included to improve the accuracy of the forecasts.
+This project implements a Temporal Convolutional Network (TCN) to forecast the volatility of S&P 500 sector ETFs. The predicted volatility is then used to construct a dynamic portfolio with the goal of reducing realized volatility compared to the SPY benchmark. Macroeconomic variables can be included to improve the accuracy of the forecasts.
 
 ## System Requirements
 
